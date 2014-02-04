@@ -28,3 +28,7 @@ Look at this:
     $user.register
 
 Isn't it nice?
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kunik/wtfbash/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
